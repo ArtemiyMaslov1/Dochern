@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IALd9mFi/TbBUy6iKL775HOwQMgaIHGO8x5uElbpucTDRbfz3EwIqFeKtMcX9xgIws99TF1XbeWzkSY5kMKO+w==",
+  "success": true,
+  "projectFilePath": "D:\\RPO\\Маслов Артемий\\dotcer\\dotcer\\dotcer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\RPO\Маслов Артемий\dotcer\dotcer\bin\Debug\net6.0-windows\dotcer.exe
+D:\RPO\Маслов Артемий\dotcer\dotcer\bin\Debug\net6.0-windows\dotcer.deps.json
+D:\RPO\Маслов Артемий\dotcer\dotcer\bin\Debug\net6.0-windows\dotcer.runtimeconfig.json
+D:\RPO\Маслов Артемий\dotcer\dotcer\bin\Debug\net6.0-windows\dotcer.dll
+D:\RPO\Маслов Артемий\dotcer\dotcer\bin\Debug\net6.0-windows\dotcer.pdb
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\dotcer.csproj.AssemblyReference.cache
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\dotcer.Form1.resources
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\dotcer.csproj.GenerateResource.cache
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\dotcer.GeneratedMSBuildEditorConfig.editorconfig
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\dotcer.AssemblyInfoInputs.cache
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\dotcer.AssemblyInfo.cs
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\dotcer.csproj.CoreCompileInputs.cache
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\dotcer.dll
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\refint\dotcer.dll
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\dotcer.pdb
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\dotcer.genruntimeconfig.cache
+D:\RPO\Маслов Артемий\dotcer\dotcer\obj\Debug\net6.0-windows\ref\dotcer.dll
